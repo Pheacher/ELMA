@@ -1,6 +1,5 @@
 (intro)=
-# Welcome to the Template Book
+# Welkom bij het ELMA boek!
+_Hier kan je wat naslagwerk vinden over ELektriciteit en MAgnetisme._
 
-_This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Je kan telkens met de knoppen onderaan naar een opvolgende pagina, of met het menu direct naar de gewenste pagina.
